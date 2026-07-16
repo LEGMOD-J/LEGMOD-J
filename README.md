@@ -12,7 +12,7 @@ To keep the codebase clean and make the "before and after" comparison straightfo
 
 | Branch Name | Case Study Status | Description |
 | :--- | :--- | :--- |
-| `1-mini-Ptidej-No-JPMS` | **Ptidej (Unmodularized)** | The original, unmodularized source code of the Ptidej project. |
-| `2-mini-Ptidej-JPMS` | **Ptidej (Modularized)** | The Ptidej project successfully modularized using the LEGO-J approach. |
+| `1-mini-Ptidej-original` | **Ptidej (Unmodularized)** | The original, unmodularized source code of the Ptidej project. |
+| `2-mini-Ptidej-modularised` | **Ptidej (Modularized)** | The Ptidej project successfully modularized using the LEGO-J approach. |
 | `3-wumpz-jhotdraw-original` | **JHotDraw (Unmodularized)**| The original, unmodularized source code of the JHotDraw project. |
 | `4-wumpz-jhotdraw-modularised`| **JHotDraw (Modularized)** | The JHotDraw project successfully modularized using the LEGO-J approach. |
