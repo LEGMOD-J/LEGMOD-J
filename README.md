@@ -18,8 +18,5 @@ To keep the codebase clean and make the "before and after" comparison straightfo
 
 | :--- | :--- | :--- |
 
-
-
 | `ptidej` | **Ptidej (Modularized)** | The Ptidej project successfully modularized using the LEGMOD-J approach. |
-
 | `jhotdraw`| **JHotDraw (Modularized)** | The JHotDraw project successfully modularized using the LEGMOD-J approach. |
