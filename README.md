@@ -15,8 +15,6 @@ To demonstrate the effectiveness of our approach, this repository includes the a
 To keep the codebase clean and make the "before and after" comparison straightforward, the project is divided into specific branches. Please switch to the respective branch to view the source code for each state of the case studies:
 
 | Branch Name | Case Study Status | Description |
-
 | :--- | :--- | :--- |
-
 | `ptidej` | **Ptidej (Modularized)** | The Ptidej project successfully modularized using the LEGMOD-J approach. |
 | `jhotdraw`| **JHotDraw (Modularized)** | The JHotDraw project successfully modularized using the LEGMOD-J approach. |
