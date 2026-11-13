@@ -1,2 +1,25 @@
 # tutorials-JPMS
-Hackthon on the Java Platform Module System
+
+# LEGMOD-J: An Approach to Overcome the Challenges to Modularise Large, Legacy Java Applications
+
+Welcome to the official repository for **LEGMOD-J**. This repository contains the replication package and source code for our proposed map-based approach designed to effectively modularize legacy Java projects.
+
+## 📌 About The Project
+
+LEGMOD-J introduces a novel mapping approach to analyze, restructure, and transition traditional Java applications into a modular architecture (e.g., Java Platform Module System - JPMS). 
+
+To demonstrate the effectiveness of our approach, this repository includes the application of LEGMOD-J on two well-known open-source case studies: **Ptidej** and **JHotDraw**.
+
+## 🌿 Branch Structure
+
+To keep the codebase clean and make the "before and after" comparison straightforward, the project is divided into specific branches. Please switch to the respective branch to view the source code for each state of the case studies:
+
+| Branch Name | Case Study Status | Description |
+
+| :--- | :--- | :--- |
+
+
+
+| `ptidej` | **Ptidej (Modularized)** | The Ptidej project successfully modularized using the LEGMOD-J approach. |
+
+| `jhotdraw`| **JHotDraw (Modularized)** | The JHotDraw project successfully modularized using the LEGMOD-J approach. |
