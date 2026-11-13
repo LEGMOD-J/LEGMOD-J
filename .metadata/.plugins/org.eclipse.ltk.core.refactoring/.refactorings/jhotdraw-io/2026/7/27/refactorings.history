@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;org.jhotdraw.io&apos; to &apos;org.jhotdraw.io.test&apos;&#x0A;- Original project: &apos;jhotdraw-io&apos;&#x0A;- Original element: &apos;jhotdraw-io/src/test/java/org.jhotdraw.io&apos;&#x0A;- Renamed element: &apos;jhotdraw-io/src/test/java/org.jhotdraw.io.test&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;org.jhotdraw.io&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;org.jhotdraw.io" name="org.jhotdraw.io.test" qualified="false" references="true" stamp="1783203698282" textual="false" version="1.0"/>
+</session>
